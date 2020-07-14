@@ -1,4 +1,4 @@
-# Calculating-Pi-With-Statistics
+# Calculating-Pi-With-Darts
 
 This hour-project calculates Pi with the help of Statistics in a form of a darts game.
 
